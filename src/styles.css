@@ -137,3 +137,13 @@ nav {
   border-bottom: 1px dashed var(--color-dim);
   padding-bottom: 1rem;
 }
+
+/* Highlight Paragraph */
+.highlight-para {
+  font-size: 1.2rem;
+  color: #a4fc4a;
+  text-shadow: 0 0 8px rgba(164, 252, 74, 0.6);
+  margin-bottom: 2rem;
+  border-left: 2px solid #a4fc4a;
+  padding-left: 1rem;
+}
